@@ -9,7 +9,7 @@
 ## Features / Funcionalidades
 
 - Real-time ROI selection with adjustable sliders for global and individual regions
-- Handwritten digit and symbol detection (0–9, +, -, ×, ÷, brackets, dot)
+- Handwritten digit and symbol detection (0–9, +, -, ÷, brackets, dot)
 - Expression parsing and evaluation
 - TFLite model for lightweight inference
 - Dataset preprocessing and training scripts
