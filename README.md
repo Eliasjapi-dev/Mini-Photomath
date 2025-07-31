@@ -2,9 +2,9 @@
 
 ## Description
 
-**English** Mini Photomath is a real-time handwritten math solver. Using OpenCV and a TensorFlow Lite CNN, it detects digits and symbols from a webcam feed, reconstructs the arithmetic expression, and displays the result instantly.
+**English:** Mini Photomath is a real-time handwritten math solver. Using OpenCV and a TensorFlow Lite CNN, it detects digits and symbols from a webcam feed, reconstructs the arithmetic expression, and displays the result instantly.
 
-**Español** Mini Photomath es un solucionador de operaciones matemáticas escritas a mano en tiempo real. Con OpenCV y una CNN en TensorFlow Lite, detecta dígitos y símbolos desde la cámara web, reconstruye la expresión aritmética y muestra el resultado al instante.
+**Español:** Mini Photomath es un solucionador de operaciones matemáticas escritas a mano en tiempo real. Con OpenCV y una CNN en TensorFlow Lite, detecta dígitos y símbolos desde la cámara web, reconstruye la expresión aritmética y muestra el resultado al instante.
 
 ## Features / Funcionalidades
 
